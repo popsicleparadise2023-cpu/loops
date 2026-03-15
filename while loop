@@ -1,0 +1,11 @@
+i = int(input("enter the value of the terms"))
+
+# sum = 0
+
+# n = 1
+
+# while n<i:
+#  sum = sum+n
+#  n = n+1
+
+# print("\nsum = ", sum)
