@@ -1,0 +1,14 @@
+number = int(input("enter the number you want to see the power of"))
+# exponent = int(input("enter the amount you want to exponent it by"))
+
+# result = 1
+
+# for i in range(exponent):
+#  result = result * number
+
+  
+
+#  answer = number**exponent
+
+
+# print(number, "to the power of", exponent, "is", answer)
